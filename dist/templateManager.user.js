@@ -1,8 +1,8 @@
 
 // ==UserScript==
-// @namespace		littleendu.xyz
-// @downloadURL		https://github.com/osuplace/templateManager/raw/main/dist/templateManager.user.js
-// @updateURL		https://github.com/osuplace/templateManager/raw/main/dist/templateManager.user.js
+// @namespace		osucord.moe
+// @downloadURL		https://github.com/osucord/templateManager/raw/main/dist/templateManager.user.js
+// @updateURL		https://github.com/osucord/templateManager/raw/main/dist/templateManager.user.js
 // @match			https://pxls.space/
 // @match			https://new.reddit.com/r/place/*
 // @match			https://www.reddit.com/r/place/*
@@ -15,6 +15,7 @@
 // @match			https://8q5oz45uh8llq89kny7vkt7phuxr0b.ext-twitch.tv/*
 // @match			https://place.ludwig.gg/*
 // @match			https://pixelplace.io/*
+// @match			https://canvas.osucord.moe/
 // @grant			GM.xmlHttpRequest
 // @grant			GM.setValue
 // @grant			GM.getValue

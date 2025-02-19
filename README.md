@@ -1,6 +1,8 @@
 # Template Manager
 ### - by r/osuplace 
 
+This is a detached fork of [templateManager](https://github.com/osuplace/templateManager)
+
 Usage instructions:
  * Install a monkey. We recommend that you use [Violentmonkey](https://violentmonkey.github.io/get-it/) but any other monkey should work too.
  * Go to [link in /dist](https://github.com/osuplace/templateManager/raw/main/dist/templateManager.user.js) to install the userscript
