@@ -21,7 +21,7 @@
 // @grant			GM.getValue
 // @connect			*
 // @name			template-manager
-// @version			0.6.5.1
+// @version			0.6.5.2
 // @description		Manages your templates on various canvas games
 // @author			LittleEndu, Mikarific, April
 // @license			MIT
