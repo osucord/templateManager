@@ -1,6 +1,6 @@
 # Color Palette
 
-Our palette used for our [event](https://canvas.osucord.moe).
+The palette used for our [event](https://canvas.osucord.moe).
 
 ## Palette Overview
 
