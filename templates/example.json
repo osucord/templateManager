@@ -1,0 +1,21 @@
+{
+    "faction": "example",
+    "contact": "@username on discord",
+    "templates": [
+        {
+            "name": "name",
+            "sources": [
+                "link to image file"
+            ],
+            "x": 0,
+            "y": 0
+        }
+    ],
+    "whitelist": [
+        {
+            "name": "Digital Clock",
+            "url": "https://gist.githubusercontent.com/LittleEndu/318ed120e92150b2a45690bd2de672d1/raw/clock.json"
+        }
+    ],
+    "blacklist": []
+}
