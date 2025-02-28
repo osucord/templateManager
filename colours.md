@@ -38,3 +38,4 @@ The palette used for our [event](https://canvas.osucord.moe).
 | #6D462F |
 | #9B6926 |
 | #FEB470 |
+| #F4CEBE |
